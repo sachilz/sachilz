@@ -62,8 +62,8 @@
 <table>
 <thead>
 <tr>
-<th>Section</th>
-<th>Language</th>
+<th width = "200">Section</th>
+<th width = "200">Language</th>
 </tr>
 </thead>
 <tbody>
