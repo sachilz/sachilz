@@ -85,8 +85,11 @@
 </tr>
 <tr>
 <td>Front End</td>
-<td><a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/HTML.svg" style="width:5%;"></a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/CSS.svg" style="width:5%;"></a></td>
+<td>
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/HTML.svg" style="width:5%;"></a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/CSS.svg" style="width:5%;">
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/JavaScript.svg"></a>
+</td>
 </tr>
 <tr>
 <td>Back End</td>
