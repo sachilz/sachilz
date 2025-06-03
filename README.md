@@ -89,9 +89,16 @@
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/HTML.svg" style="width:5%;"></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/CSS.svg" style="width:5%;">
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/JavaScript.svg"style="width:5%;"></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/JavaScript.svg"style="width:5%;"></a>
 </td>
 </tr>
 <tr>
+
+<td>Frontend Frameworks / Libraries</td>
+<td>
+<a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/Bootstrap.svg" style="width:5%;"></a>
+</td>
+
 <td>Back End</td>
 <td>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/MySQL-Dark.svg" 
