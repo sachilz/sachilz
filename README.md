@@ -67,22 +67,7 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>UI Tools</td>
-<td><a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" style="width:5%;"></a></td>
-</tr>
-<tr>
-<td>App Development</td>
-<td>
-  <a href="https://www.python.org/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/python.png" 
-  style="width:5%;"></a>
-  <a href="https://www.codeblocks.org/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/C.svg"     
-  style="width:5%;"></a>
-  <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Java-Dark.svg"     
-  style="width:5%;"></a>
-  
-</td>
-</tr>
+
 <tr>
 <td>Front End</td>
 <td>
@@ -91,21 +76,31 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/JavaScript.svg"style="width:5%;"></a>
 </td>
 </tr>
+
 <tr>
 <td>Frontend Frameworks / Libraries</td>
 <td>
 <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/Bootstrap.svg" style="width:5%;"></a>
 </td>
 </tr>
+
 <tr>
 <td>Back End</td>
 <td>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/MySQL-Dark.svg" 
-  style="width:5%;"></a>
-  <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Java-Dark.svg"     
-  style="width:5%;"></a>
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/python.png" style="width:5%;"></a>
+  <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-  Icon/blob/main/Icons/JavaDark.svg"style="width:5%;"></a>
+   <a href="https://en.wikipedia.org/wiki/PHP"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/php.png"style="width:5%;"></a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/c%23.png"style="width:5%;"></a>
 </td>
 </tr>
+
+<tr>
+<td>Frontend Frameworks / Libraries</td>
+<td>
+<a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/Bootstrap.svg" style="width:5%;"></a>
+</td>
+</tr>
+
 <tr>
 <td>Others</td>
 <td>
