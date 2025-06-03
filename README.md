@@ -82,11 +82,11 @@
 <td>
 <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/Bootstrap.svg" style="width:5%;"></a>
 </td>
-
+</tr>
+<tr>
 <td>
 <a href="https://react.dev/"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/react.png" style="width:5%;"></a>
 </td>
-
 </tr>
 
 <tr>
