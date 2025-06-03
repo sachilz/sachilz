@@ -81,7 +81,7 @@
 <td>Frontend Frameworks / Libraries</td>
 <td>
 <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/Bootstrap.svg" style="width:5%;"></a>
-<a href="https://react.dev/"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/react.png" style="width:5%;"></a>
+
 </td>
 </tr>
 
@@ -99,7 +99,17 @@
 <td>Databases</td>
 <td>
 <a href="https://www.mysql.com/"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/MySQL-Dark.svg" style="width:5%;"></a>
+</td>
+</tr>
+
+<tr>
+<td>Mern Stack</td>
+<td>
 <a href="https://www.mongodb.com/"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/MongoDB.svg" style="width:5%;"></a>
+<a href="https://expressjs.com/"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/ExpressJS-Dark.svg" style="width:5%;"></a>
+<a href="https://react.dev/"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/react.png" style="width:5%;"></a>
+<a href="https://nodejs.org/en"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/NodeJS-Dark.svg" style="width:5%;"></a>
+
 </td>
 </tr>
 
