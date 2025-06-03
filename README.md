@@ -39,7 +39,10 @@
 ## <p>🔥 What I'm Up to:</p>
 <ul dir="auto">
 <p dir="auto">Currently, I’m diving deep into:</p>
-<li>Java and C#</li>
+<li>Java | C#</li>
+<li>JavaScript | PHP | MERN Stack (MongoDB, Express, React, Node.js)</li>
+<li>React</li>
+<li>Python</li>
 <li>
 <p dir="auto">My main journey is to become a data engineer, and its excited one for me. so i am exploring various algorithms, applications, techniques to solve real world problems. and also i want to make people easier them day to day activities using my knowledge.</p>
 </li>
