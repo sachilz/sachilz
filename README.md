@@ -96,9 +96,10 @@
 </tr>
 
 <tr>
-<td>Frontend Frameworks / Libraries</td>
+<td>Databases</td>
 <td>
-<a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/Bootstrap.svg" style="width:5%;"></a>
+<a href="https://www.mysql.com/"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/MySQL-Dark.svg" style="width:5%;"></a>
+<a href="https://www.mongodb.com/"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/MongoDB.svg" style="width:5%;"></a>
 </td>
 </tr>
 
