@@ -88,9 +88,9 @@
 <td>Back End</td>
 <td>
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/python.png" style="width:5%;"></a>
-  <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-  Icon/blob/main/Icons/JavaDark.svg"style="width:5%;"></a>
-   <a href="https://en.wikipedia.org/wiki/PHP"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/php.png"style="width:5%;"></a>
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/c%23.png"style="width:5%;"></a>
+  <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/Java-Dark.svg"style="width:5%;"></a>
+   <a href="https://en.wikipedia.org/wiki/PHP"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/php.png"style="width:8%;"></a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/c%23.png"style="width:8%;"></a>
 </td>
 </tr>
 
