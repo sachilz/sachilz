@@ -93,12 +93,12 @@
 </td>
 </tr>
 <tr>
-
 <td>Frontend Frameworks / Libraries</td>
 <td>
 <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/Bootstrap.svg" style="width:5%;"></a>
 </td>
-
+</tr>
+<tr>
 <td>Back End</td>
 <td>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/MySQL-Dark.svg" 
