@@ -38,10 +38,8 @@
 <!--- What i'm up to(end) -->
 ## <p>🔥 What I'm Up to:</p>
 <ul dir="auto">
-<li>
-<p dir="auto">Currently, I’m diving deep into: 
-<ul>Java and C#</ul></p>
-</li>
+<p dir="auto">Currently, I’m diving deep into:</p>
+<li>Java and C#</li>
 <li>
 <p dir="auto">My main journey is to become a data engineer, and its excited one for me. so i am exploring various algorithms, applications, techniques to solve real world problems. and also i want to make people easier them day to day activities using my knowledge.</p>
 </li>
