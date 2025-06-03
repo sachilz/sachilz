@@ -43,12 +43,9 @@
 <li>JavaScript | PHP | MERN Stack (MongoDB, Express, React, Node.js)</li>
 <li>React</li>
 <li>Python</li>
-<li>
-<p dir="auto">My main journey is to become a data engineer, and its excited one for me. so i am exploring various algorithms, applications, techniques to solve real world problems. and also i want to make people easier them day to day activities using my knowledge.</p>
-</li>
-<li>
-<p dir="auto">And I love working with the community and I love to deal with problems efficiently, I have a sickness 😆 to face challenges and break down complex problems, to find elegant solutions.😍😂</p>
-</li>
+<p dir="auto">I'm very interested in learning new programming languages and love using that knowledge to build creative and impactful future projects. Every day is a new opportunity to level up my skills and tackle challenges that push my limits.</p>
+<p dir="auto">💡 I enjoy solving real-world problems and making everyday life easier through tech. I’ve got a bit of a “sickness” 😆 for challenges, and I love breaking down complex problems to find clean, elegant solutions. 😍😂</p>
+<p dir = "auto">👥 I'm also passionate about collaborating with the community, learning from others, and sharing what I discover along the way.</p>
 </ul>
 <!--- What i'm up to(end) -->
 
