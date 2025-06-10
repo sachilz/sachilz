@@ -6,7 +6,7 @@
 <!--- Top section(end) -->
 
 <!--- Profile View section(start) -->
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sachinthadilshan00&label=Profile%20views&color=0e75b6&style=flat" alt="sachinthadilshan00" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sachilz&label=Profile%20views&color=0e75b6&style=flat" alt="sachilz" /> </p>
 <!--- Profile View section(end) -->
 
 <!--- First Table section(start) -->
