@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Pro-Active-blueviolet?style=flat-square&logo=github" alt="GitHub Pro Badge" />
+</p>
 <!--- Top section(start) -->
 <p align="center"> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="100" height="100" /> </p>
 <h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">I'm Sachintha Dilshan</h1>
