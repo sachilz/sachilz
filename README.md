@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/GitHub%20Pro-Active-blueviolet?style=flat-square&logo=github" alt="GitHub Pro Badge" />
 </p>
 <!--- Top section(start) -->
