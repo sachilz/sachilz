@@ -158,7 +158,7 @@
 <!--- Horizontal line(End) -->
 
 <!--- Connection section(start) -->
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Connect With Me
+## <img src="https://github.com/sachilz/Skill-Icon/blob/main/email.png" width=25px> Connect With Me:
 <p>I'm always open to collaborations, discussions, or just chatting about tech, problem-solving, or our favorite superheroes! Feel free to reach out to me:</p>
 <p align="center" dir="auto">
 <a href="https://www.linkedin.com/in/sachintha-dilshan-472a36309/" rel="nofollow"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="50" width="50" style="max-width: 100%;"></a>
