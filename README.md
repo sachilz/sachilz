@@ -15,10 +15,10 @@
   <tr border="none">
     <td width="50%" align="left">
     <ul dir="auto">
-    <li> <p dir="auto">🌱 I’m currently learning <strong>MERN Stack</strong></p> </li>
+    <li> <p dir="auto">🌱 I’m currently learning <strong>Machine Learning</strong></p> </li>
     <li> <p dir="auto">🧑‍🎓 I’m an undergraduate at <strong>Horizon Campus</strong></p> </li>
     <li> <p dir="auto">📝 I regularly write articles on https://medium.com/@dilshansachiya671_17974</p> </li>
-    <li> <p dir="auto">💬 Ask me about <strong>HTML/CSS/Java Script/Java/Python</strong></p> </li>
+    <li> <p dir="auto">💬 Ask me about <strong>Python</strong></p> </li>
     <li> <p dir="auto">📫 How to reach me <a href="mailto:dilshansachintha322@gmail.com">dilshansachintha322@gmail.com</p> </li>
     </td>
     <td width="50%" align="center">
