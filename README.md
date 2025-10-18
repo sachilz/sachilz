@@ -39,10 +39,10 @@
 ## <p>🔥 What I'm Up to:</p>
 <ul dir="auto">
 <p dir="auto">Currently, I’m diving deep into:</p>
-<li>Java | C#</li>
-<li>JavaScript | PHP | MERN Stack (MongoDB, Express, React, Node.js)</li>
+<li>Java</li>
+<li>Python</li>
 <li>React</li>
-<li>Python</li><br>
+<li>Nest JS | Typescript</li><br>
 <p dir="auto">I'm very interested in learning new programming languages and love using that knowledge to build creative and impactful future projects. Every day is a new opportunity to level up my skills and tackle challenges that push my limits.</p></li>
 <p dir="auto">💡 I enjoy solving real-world problems and making everyday life easier through tech. I’ve got a bit of a “sickness” 😆 for challenges, and I love breaking down complex problems to find clean, elegant solutions. 😍😂</p>
 <p dir = "auto">👥 I'm also passionate about collaborating with the community, learning from others, and sharing what I discover along the way.</p>
