@@ -50,6 +50,9 @@ Right now, I'm sharpening my expertise in:
 * AI + Web Integrations using React, NestJS / TypeScript, and APIs
 
 * Exploring Java for scalable backend systems in ML projects
+
+## 💡Why AI/ML?
+I’m obsessed (in a healthy way 😆) with solving real-world problems using intelligent systems. I love how AI
   
 <p dir="auto">I'm very interested in learning new programming languages and love using that knowledge to build creative and impactful future projects. Every day is a new opportunity to level up my skills and tackle challenges that push my limits.</p></li>
 <p dir="auto">💡 I enjoy solving real-world problems and making everyday life easier through tech. I’ve got a bit of a “sickness” 😆 for challenges, and I love breaking down complex problems to find clean, elegant solutions. 😍😂</p>
