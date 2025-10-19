@@ -38,7 +38,7 @@
 <!--- What i'm up to(end) -->
 ## <p>🔥 What I'm Up to:</p>
 <ul dir="auto">
-<p dir="auto">Currently, I’m diving deep into:</p>
+<p dir="auto">I'm currently diving deep into the world of Artificial Intelligence & Machine Learning, where I combine my programming skills with data-driven thinking to build intelligent and impactful solutions.</p>
 <li>Java</li>
 <li>Python</li>
 <li>React</li>
