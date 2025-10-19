@@ -36,13 +36,21 @@
 <!--- Horizontal line(End) -->  
   
 <!--- What i'm up to(end) -->
-## <p>🔥 What I'm Up to:</p>
-<ul dir="auto">
-<p dir="auto">I'm currently diving deep into the world of Artificial Intelligence & Machine Learning, where I combine my programming skills with data-driven thinking to build intelligent and impactful solutions.</p>
-<li>Java</li>
-<li>Python</li>
-<li>React</li>
-<li>Nest JS | Typescript</li><br>
+## 🔥What I'm Up to
+I'm currently diving deep into the world of Artificial Intelligence & Machine Learning, where I combine my programming skills with data-driven thinking to build intelligent and impactful solutions.
+  
+## 🚀What I’m Learning & Building
+Right now, I'm sharpening my expertise in:
+* Machine Learning & Deep Learning
+
+* Python for AI (NumPy, Pandas, TensorFlow, PyTorch, Scikit-Learn)
+
+* Data Preprocessing, Model Training & Deployment
+
+* AI + Web Integrations using React, NestJS / TypeScript, and APIs
+
+* Exploring Java for scalable backend systems in ML projects
+  
 <p dir="auto">I'm very interested in learning new programming languages and love using that knowledge to build creative and impactful future projects. Every day is a new opportunity to level up my skills and tackle challenges that push my limits.</p></li>
 <p dir="auto">💡 I enjoy solving real-world problems and making everyday life easier through tech. I’ve got a bit of a “sickness” 😆 for challenges, and I love breaking down complex problems to find clean, elegant solutions. 😍😂</p>
 <p dir = "auto">👥 I'm also passionate about collaborating with the community, learning from others, and sharing what I discover along the way.</p>
