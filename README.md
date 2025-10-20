@@ -55,13 +55,14 @@ Right now, I'm sharpening my expertise in:
 I’m obsessed (in a healthy way 😆) with solving real-world problems using intelligent systems. I love how AI
 
 Can:
-✅ Learn from data
 
-✅ Make predictions
+** Learn from data
 
-✅ Automate complex tasks
+Make predictions
 
-✅ Create futuristic solutions that make life easier
+Automate complex tasks
+
+Create futuristic solutions that make life easier
 <!--- What i'm up to(end) -->
 
 <!--- Horizontal line(start) -->
