@@ -56,7 +56,7 @@ I’m obsessed (in a healthy way 😆) with solving real-world problems using in
 
 Can:
 
-** Learn from data
+`Learn from data`
 
 Make predictions
 
