@@ -54,10 +54,7 @@ Right now, I'm sharpening my expertise in:
 ## 💡Why AI/ML?
 I’m obsessed (in a healthy way 😆) with solving real-world problems using intelligent systems. I love how AI
   
-<p dir="auto">I'm very interested in learning new programming languages and love using that knowledge to build creative and impactful future projects. Every day is a new opportunity to level up my skills and tackle challenges that push my limits.</p></li>
-<p dir="auto">💡 I enjoy solving real-world problems and making everyday life easier through tech. I’ve got a bit of a “sickness” 😆 for challenges, and I love breaking down complex problems to find clean, elegant solutions. 😍😂</p>
-<p dir = "auto">👥 I'm also passionate about collaborating with the community, learning from others, and sharing what I discover along the way.</p>
-</ul>
+
 <!--- What i'm up to(end) -->
 
 <!--- Horizontal line(start) -->
