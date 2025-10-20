@@ -53,8 +53,12 @@ Right now, I'm sharpening my expertise in:
 
 ## 💡Why AI/ML?
 I’m obsessed (in a healthy way 😆) with solving real-world problems using intelligent systems. I love how AI
-  
 
+Can:
+✅ Learn from data
+✅ Make predictions
+✅ Automate complex tasks
+✅ Create futuristic solutions that make life easier
 <!--- What i'm up to(end) -->
 
 <!--- Horizontal line(start) -->
