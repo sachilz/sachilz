@@ -60,9 +60,10 @@ Can:
 
 * `Make predictions`
 
-Automate complex tasks
+* `Automate complex tasks`
 
-Create futuristic solutions that make life easier
+* `Create futuristic solutions that make life easier`
+  
 <!--- What i'm up to(end) -->
 
 <!--- Horizontal line(start) -->
