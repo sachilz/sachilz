@@ -88,9 +88,9 @@ Can:
 <tr>
 <td>AI / Machine Learning</td>
 <td>
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/python.png" style="width:5%;"></a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/icons8-tensorflow-48.png" style="width:5%;">
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/JavaScript.svg"style="width:5%;"></a>
+<img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/python.png" style="width:5%;">
+<img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/icons8-tensorflow-48.png" style="width:5%;">
+<img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/JavaScript.svg"style="width:5%;">
 </td>
 </tr>
 
