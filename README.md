@@ -93,7 +93,7 @@ Can:
 <img src = "https://github.com/sachilz/Skill-Icon/blob/main/icons8-numpy-48.png"style="width:5%;">
 <img src = "https://github.com/sachilz/Skill-Icon/blob/main/icons8-pandas-48.png"style="width:5%;">
 <img src = "https://github.com/sachilz/Skill-Icon/blob/main/icons8-pytorch-48.png"style="width:5%;">
-<img src = "https://github.com/sachilz/Skill-Icon/blob/main/icons8-pytorch-48.png"style="width:5%;">
+<img src = "https://github.com/sachilz/Skill-Icon/blob/main/scikit-learn.png"style="width:5%;">
 </td>
 </tr>
 
