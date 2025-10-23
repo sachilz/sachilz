@@ -88,11 +88,11 @@ Can:
 <td>AI / Machine Learning</td>
 <td>
 <img src="https://github.com/sachilz/Skill_Icon/blob/main/Icons/python.png" style="width:5%;">
-<img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/icons8-tensorflow-48.png" style="width:5%;">
-<img src = "https://github.com/sachilz/Skill-Icon/blob/main/icons8-numpy-48.png"style="width:5%;">
-<img src = "https://github.com/sachilz/Skill-Icon/blob/main/icons8-pandas-48.png"style="width:5%;">
-<img src = "https://github.com/sachilz/Skill-Icon/blob/main/icons8-pytorch-48.png"style="width:5%;">
-<img src = "https://github.com/sachilz/Skill-Icon/blob/main/scikit-learn.png"style="width:5%;">
+<img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/TensorFlow.png" style="width:5%;">
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/PyTorch.png"style="width:5%;">
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/NumPy.png"style="width:5%;">
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/Pandas.png"style="width:5%;">
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/scikit-learn.png"style="width:5%;">
 </td>
 </tr>
 
