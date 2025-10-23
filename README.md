@@ -87,7 +87,7 @@ Can:
 <tr>
 <td>AI / Machine Learning</td>
 <td>
-<img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/python.png" style="width:5%;">
+<img src="https://github.com/sachilz/Skill_Icon/blob/main/Icons/python.png" style="width:5%;">
 <img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/icons8-tensorflow-48.png" style="width:5%;">
 <img src = "https://github.com/sachilz/Skill-Icon/blob/main/icons8-numpy-48.png"style="width:5%;">
 <img src = "https://github.com/sachilz/Skill-Icon/blob/main/icons8-pandas-48.png"style="width:5%;">
