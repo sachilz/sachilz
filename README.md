@@ -108,7 +108,7 @@ Can:
 <td>Tools & Version Control</td>
 <td>
   <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Git.png" style="width:5%;"></a>
-  <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/GitHub.png"style="width:5%;"></a>
+  <img src="https://github.com/sachilz/Skill_Icon/blob/main/Icons/Github-Light.svg"style="width:5%;"></a>
   <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Postman.png"style="width:5%;"></a>
   <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Kaggle.png"style="width:5%;"></a>
 </td>
