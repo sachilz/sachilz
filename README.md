@@ -97,9 +97,10 @@ Can:
 </tr>
 
 <tr>
-<td>Frontend Frameworks / Libraries</td>
+<td>Deep Learning / Neural Networks</td>
 <td>
-<a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/Bootstrap.svg" style="width:5%;"></a>
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/TensorFlow.png" style="width:5%;"></a>
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/PyTorch.png" style="width:5%;"></a>
 
 </td>
 </tr>
