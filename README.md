@@ -53,11 +53,8 @@ I’m obsessed (in a healthy way 😆) with solving real-world problems using in
 Can:
 
 * `Learn from data`
-
 * `Make predictions`
-
 * `Automate complex tasks`
-
 * `Create futuristic solutions that make life easier`
   
 <!--- What i'm up to(end) -->
