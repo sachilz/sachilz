@@ -109,7 +109,7 @@ Can:
 <td>
   <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Git.png" style="width:5%;"></a>
   <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/GitHub.png"style="width:5%;"></a>
-  <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Visual-Studio-Code-(VS-Code).png"style="width:8%;"></a>
+  <img src="https://github.com/sachilz/Skill_Icon/blob/main/icons8-visual-studio-code-48.png"style="width:8%;"></a>
   <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Postman.png"style="width:5%;"></a>
   <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Kaggle.png"style="width:5%;"></a>
 </td>
