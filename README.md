@@ -101,17 +101,17 @@ Can:
 <td>
 <img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/TensorFlow.png" style="width:5%;"></a>
 <img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/PyTorch.png" style="width:5%;"></a>
-
 </td>
 </tr>
 
 <tr>
-<td>Back End</td>
+<td>Tools & Version Control</td>
 <td>
-  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/python.png" style="width:5%;"></a>
-  <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/Java-Dark.svg"style="width:5%;"></a>
-   <a href="https://en.wikipedia.org/wiki/PHP"><img src="https://github.com/sachilz/Skill-Icon/blob/main/Icons/php.png"style="width:8%;"></a>
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://github.com/sachilz/Skill-Icon/blob/main/c%23%20blue.png"style="width:5%;"></a>
+  <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Git.png" style="width:5%;"></a>
+  <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/GitHub.png"style="width:5%;"></a>
+  <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Visual-Studio-Code-(VS-Code).png"style="width:8%;"></a>
+  <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Postman.png"style="width:5%;"></a>
+  <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Kaggle.png"style="width:5%;"></a>
 </td>
 </tr>
 
