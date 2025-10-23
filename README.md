@@ -40,14 +40,11 @@ I'm currently diving deep into the world of Artificial Intelligence & Machine Le
   
 ## 🚀What I’m Learning & Building
 Right now, I'm sharpening my expertise in:
+
 * Machine Learning & Deep Learning
-
-* Python for AI (NumPy, Pandas, TensorFlow, PyTorch, Scikit-Learn)
-
+* Python for AI (NumPy, Pandas, TensorFlow, PyTorch, Scikit-Learn) 
 * Data Preprocessing, Model Training & Deployment
-
-* AI + Web Integrations using React, NestJS / TypeScript, and APIs
-
+* AI + Web Integrations using React, NestJS / TypeScript, and APIs<br>
 * Exploring Java for scalable backend systems in ML projects
 
 ## 💡Why AI/ML?
