@@ -114,6 +114,8 @@ Can:
 <img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/HTML5.png" style="width:5%;">
 <img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/CSS3.png" style="width:5%;">
 <img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/JavaScript.png" style="width:5%;">
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/TypeScript.png" style="width:5%;">
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/React.png" style="width:5%;">
 </td>
 </tr>
 
