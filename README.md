@@ -109,9 +109,9 @@ Can:
 </tr>
 
 <tr>
-<td>Databases</td>
+<td>Frontend / AI Integration</td>
 <td>
-<a href="https://www.mysql.com/"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/MySQL-Dark.svg" style="width:5%;"></a>
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/HTML5.png" style="width:5%;">
 </td>
 </tr>
 
