@@ -7,7 +7,6 @@
 <p>I'm a software engineering student who's passionate about building innovative solutions and exploring the realms of technology. Currently, I'm delving into the worlds of JavaScript and Machine Learning, honing my skills to create impactful projects.</p>
 <!--- Top section(end) -->
 
-
 <!--- First Table section(start) -->
 <table align="center">
 <tbody>
