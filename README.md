@@ -126,10 +126,11 @@ Can:
 </tr>
 
 <tr>
-<td>Tools and Version Control</td>
+<td>Backend / API Development</td>
 <td>
-  <img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Github-Dark.svg" style="width:5%;">
-  <img src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/Git.svg" style="width:5%;">
+  <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/TypeScript.png" style="width:5%;">
+  <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Java.png" style="width:5%;">
+  <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Node.js.png" style="width:5%;">
 </td>
 </tr>
 </tbody>
