@@ -119,13 +119,9 @@ Can:
 </tr>
 
 <tr>
-<td>Mern Stack</td>
+<td>Databases / Data Storage</td>
 <td>
-<a href="https://www.mongodb.com/"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/MongoDB.svg" style="width:5%;"></a>
-<a href="https://expressjs.com/"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/ExpressJS-Dark.svg" style="width:5%;"></a>
-<a href="https://react.dev/"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/react.png" style="width:5%;"></a>
-<a href="https://nodejs.org/en"><img src = "https://github.com/sachilz/Skill-Icon/blob/main/Icons/NodeJS-Dark.svg" style="width:5%;"></a>
-
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/Skills/MySQL.png" style="width:5%;">
 </td>
 </tr>
 
