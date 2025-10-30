@@ -47,8 +47,9 @@ Right now, I'm sharpening my expertise in:
 * Exploring Java for scalable backend systems in ML projects
 
 ## 💡Why AI/ML?
-I’m obsessed (in a healthy way 😆) with solving real-world problems using intelligent systems. I love how AI
-Can:
+I’m obsessed (in a healthy way 😆) with solving real-world problems using intelligent systems. I love how 
+
+AI Can:
 
 * `Learn from data`
 * `Make predictions`
