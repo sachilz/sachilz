@@ -167,7 +167,6 @@ AI Can:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 <!--- Horizontal line(End) -->
-
 <!--- Connection section(start) -->
 ## Connect With Me:
 <p>I'm always open to collaborations, discussions, or just chatting about tech, problem-solving, or our favorite superheroes! Feel free to reach out to me:</p>
