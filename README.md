@@ -164,6 +164,7 @@ AI Can:
 ## <p>🦇 Fun Fact:</p>
 <p>I'm a huge fan of <strong>Superman!</strong> His resilience, intelligence, and commitment to justice inspire me in my own journey.</p>
 
+
 <!--- Horizontal line(start) -->
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
