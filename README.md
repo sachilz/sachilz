@@ -108,11 +108,11 @@ AI Can:
 <tr>
 <td>Frontend / AI Integration</td>
 <td>
-<img src = "https://www.flaticon.com/free-icon/html_1051277?term=html&page=1&position=2&origin=search&related_id=1051277" style="width:5%;">
-<img src = "https://www.flaticon.com/free-icon/css-3_732190?term=css&page=1&position=1&origin=search&related_id=732190" style="width:5%;">
-<img src = "https://www.flaticon.com/free-icon/js_5968292?term=javascript&page=1&position=3&origin=search&related_id=5968292" style="width:5%;">
-<img src = "https://www.flaticon.com/free-icon/typescript_5968381?term=typescript&page=1&position=1&origin=search&related_id=5968381" style="width:5%;">
-<img src = "https://www.flaticon.com/free-icon/physics_1126012?term=react&page=1&position=2&origin=search&related_id=1126012" style="width:5%;">
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/svg/HTML5.svg" style="width:5%;">
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/svg/CSS3.svg" style="width:5%;">
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/svg/JavaScript.svg" style="width:5%;">
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/svg/TypeScript.svg" style="width:5%;">
+<img src = "https://github.com/sachilz/Skill_Icon/blob/main/svg/React.svg" style="width:5%;">
 </td>
 </tr>
 
