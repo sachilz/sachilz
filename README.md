@@ -176,7 +176,7 @@ AI Can:
 <p align="center" dir="auto">
 <a href="https://www.linkedin.com/in/sachintha-dilshan-472a36309/" rel="nofollow"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="50" width="50" style="max-width: 100%;"></a>
 <a href="https://stackoverflow.com/users/25270253/sachintha-dilshan?tab=profile" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="50" width="50" style="max-width: 100%;"></a>
-<a href="https://www.hackerrank.com/profile/dilshansachiya61" rel="nofollow"><img align="center" src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/hackerrank.svg" height="50" width="50" style="max-width: 100%;"></a>
+<a href="https://github.com/sachilz/Skill_Icon/blob/main/Icons/hackerrank.svg" rel="nofollow"><img align="center" src="https://github.com/SachinthaDilshan00/Skill-Icon/blob/main/Icons/hackerrank.svg" height="50" width="50" style="max-width: 100%;"></a>
 </p>
 
 <p align="center">Looking forward to connecting with you! 🚀</p>
