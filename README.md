@@ -143,21 +143,18 @@ AI Can:
 
 <!--- stats (start) -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats
-<p align="center">
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sachilz&theme=midnight-purple&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=sachilz&theme=midnight-purple&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachilz&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sachilz&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sachilz&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
 </table>
+
+
 <!--- stats (end) -->
 
 ## <p>🦇 Fun Fact:</p>
