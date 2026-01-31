@@ -93,7 +93,7 @@ I’m passionate about enabling teams to move faster with confidence. DevOps let
 <tr>
 <td>Infrastructure as Code</td>
 <td>
-  <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Terraform.png" style="width:5%;">
+  <img src="https://github.com/sachilz/Skill_Icon/blob/main/svg/HashiCorp-Terraform.svg" style="width:5%;">
 </td>
 </tr>
 
