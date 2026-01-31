@@ -1,4 +1,3 @@
-
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub%20Pro-Active-blueviolet?style=flat-square&logo=github" alt="GitHub Pro Badge" />
 </p>
@@ -173,4 +172,3 @@ I’m passionate about enabling teams to move faster with confidence. DevOps let
 </p>
 
 <p align="center">Looking forward to connecting with you! 🚀</p>
-````
