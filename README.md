@@ -11,6 +11,7 @@
     <td width="50%" align="left">
     <ul dir="auto">
     <li> <p dir="auto">🌱 I’m currently learning <strong>DevOps & Cloud Engineering</strong></p> </li>
+    <li> <p dir="auto">🎓 I'm currently an undergraduate at Horizon Campus</p> </li>
     <li> <p dir="auto">📝 I regularly write articles on https://medium.com/@dilshansachiya671_17974</p> </li>
     <li> <p dir="auto">💬 Ask me about <strong>CI/CD, Linux, Docker, Kubernetes</strong></p> </li>
     <li> <p dir="auto">📫 How to reach me <a href="mailto:dilshansachintha322@gmail.com">dilshansachintha322@gmail.com</a></p> </li>
