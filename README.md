@@ -1,5 +1,13 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="100" height="100" /> </p>
-<h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">I'm Sachintha Dilshan</h1>
+<div align="center">
+  <a href="https://github.com/sachilz">
+    <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="130" alt="Developer Animation" />
+  </a>
+  
+  <h1>Hi, I'm Sachintha Dilshan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="Waving Hand" /></h1>
+  
+  <a href="https://github.com/sachilz">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=500&height=40&lines=DevOps+%26+Cloud+Enthusiast;Infrastructure+as+Code;Software+Engineering+Student;Continuous+Integration+%26+Delivery" alt="Typing SVG" />
+  </a>
 <p align="center">I'm a software engineering student focused on DevOps engineering and cloud infrastructure. I enjoy automating workflows, improving system reliability, and enabling teams to ship confidently with modern CI/CD practices.</p>
 <table align="center">
 <tbody>
