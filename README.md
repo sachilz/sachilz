@@ -116,9 +116,6 @@ I’m passionate about enabling teams to move faster with confidence. DevOps let
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachilz&theme=tokyonight&hide_border=true&background=0D1117&ring=2496ED&fire=00C6FF&currStreakNum=c9d1d9&sideNums=c9d1d9" width="48%" alt="GitHub Streak" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sachilz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2496ED&text_color=c9d1d9" width="48%" alt="Top Languages" />
-</div>
 
 <br/>
 
