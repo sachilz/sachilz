@@ -109,28 +109,29 @@ I’m passionate about enabling teams to move faster with confidence. DevOps let
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachilz&show_icons=true&theme=tokyonight&count_private=true" alt="Sachilz GitHub Stats" />
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sachilz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2496ED&icon_color=00C6FF&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachilz&theme=tokyonight&hide_border=true&background=0D1117&ring=2496ED&fire=00C6FF&currStreakNum=c9d1d9&sideNums=c9d1d9" width="48%" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sachilz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2496ED&text_color=c9d1d9" width="48%" alt="Top Languages" />
+</div>
+
+<br/>
+
+## 🚀 Let's Connect!
+
+<div align="center">
+  <p><i>I'm always open to discussing DevOps best practices, automation strategies, or collaborating on projects.</i></p>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachilz&layout=compact&theme=tokyonight&langs_count=8" alt="Sachilz Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachilz&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-## <p>🦇 Fun Fact:</p>
-<p>I'm a huge fan of <strong>Superman!</strong> His resilience, intelligence, and commitment to justice inspire me in my own journey.</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-</p>
-
-## Connect With Me:
-<p align="center">
-<a href="https://www.linkedin.com/in/sachilz/"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
-<a href="https://www.youtube.com/@NextOpz"><img src="https://skillicons.dev/icons?i=youtube" height="50" /></a>
-</p>
-
-<p align="center">Looking forward to connecting with you! 🚀</p>
+  <a href="https://www.linkedin.com/in/sachilz/" target="_blank"><img src="https://img.icons8.com/3d-fluency/100/linkedin.png" alt="LinkedIn" width="65" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@NextOpz" target="_blank"><img src="https://img.icons8.com/3d-fluency/100/youtube-play.png" alt="YouTube" width="65" /></a>
+  <br/><br/>
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=500&height=50&lines=Automate+Everything;Scale+With+Confidence;Let's+Build+Together!" alt="Typing SVG" />
+  </a>
+</div>
