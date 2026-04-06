@@ -125,9 +125,9 @@ I’m passionate about enabling teams to move faster with confidence. DevOps let
   <p><i>I'm always open to discussing DevOps best practices, automation strategies, or collaborating on projects.</i></p>
   <br/>
   <a href="https://www.linkedin.com/in/sachilz/" target="_blank"><img src="https://img.icons8.com/3d-fluency/100/linkedin.png" alt="LinkedIn" width="65" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.youtube.com/@NextOpz" target="_blank"><img src="https://img.icons8.com/3d-fluency/100/youtube-play.png" alt="YouTube" width="65" /></a>
-  <br/><br/>
+  <br/>
   <a href="https://readme-typing-svg.herokuapp.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=500&height=50&lines=Automate+Everything;Scale+With+Confidence;Let's+Build+Together!" alt="Typing SVG" />
   </a>
