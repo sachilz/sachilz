@@ -164,7 +164,7 @@ I'm a **software engineering student** focused on **DevOps engineering** and **c
 <!-- Row 1: Stats + Streak -->
 <p align="center">
   <a href="https://github.com/sachilz">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachilz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2496ED&icon_color=00C6FF&text_color=c9d1d9&ring_color=2496ED" alt="GitHub Stats" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=sachilz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2496ED&icon_color=00C6FF&text_color=c9d1d9&ring_color=2496ED" alt="GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/sachilz">
@@ -175,21 +175,21 @@ I'm a **software engineering student** focused on **DevOps engineering** and **c
 <!-- Row 2: Top Languages -->
 <p align="center">
   <a href="https://github.com/sachilz">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachilz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2496ED&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+    <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sachilz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2496ED&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
 <!-- Row 3: Trophies -->
 <p align="center">
   <a href="https://github.com/sachilz">
-    <img src="https://github-profile-trophy.vercel.app/?username=sachilz&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=sachilz&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
   </a>
 </p>
 
 <!-- Row 4: Activity Graph -->
 <p align="center">
   <a href="https://github.com/sachilz">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachilz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2496ED&line=00C6FF&point=2496ED&area=true&area_color=00C6FF" alt="Activity Graph" />
+    <img width="95%" src="https://github-activity-chart.vercel.app/graph?username=sachilz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2496ED&line=00C6FF&point=2496ED&area=true&area_color=00C6FF" alt="Activity Graph" />
   </a>
 </p>
 
