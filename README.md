@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="100" height="100" /> </p>
 <h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">I'm Sachintha Dilshan</h1>
-<p align="center">I'm a software engineering student focused on DevOps engineering and cloud infrastructure. I enjoy automating workflows, improving system reliability, and enabling teams to ship confidently with modern CI/CD practices.</p>
+<p align="center">I'm a software engineering student focused on DevOps engineering and cloud infrastructure. I enjoy automating workflows, improving system reliability, and enabling teams to ship confidently.</p>
 <table align="center">
 <tbody>
   <tr border="none">
@@ -112,8 +112,10 @@ I’m passionate about enabling teams to move faster with confidence. DevOps let
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sachilz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2496ED&icon_color=00C6FF&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachilz&theme=tokyonight&hide_border=true&background=0D1117&ring=2496ED&fire=00C6FF&currStreakNum=c9d1d9&sideNums=c9d1d9" width="48%" alt="GitHub Streak" />
+  <!-- The previous analytics image was failing (service required a PAT). Replaced with the standard github-readme-stats endpoint. If you prefer a different stats provider or a private PAT-backed deployment, update these URLs accordingly. -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sachilz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2496ED&icon_color=00C6FF" alt="GitHub stats for sachilz" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachilz&theme=tokyonight&hide_border=true&background=0D1117&ring=2496ED&fire=00C6FF" alt="GitHub streak for sachilz" width="48%" />
 </div>
 <br/>
 
@@ -129,6 +131,6 @@ I’m passionate about enabling teams to move faster with confidence. DevOps let
   <a href="https://www.youtube.com/@NextOpz" target="_blank"><img src="https://img.icons8.com/3d-fluency/100/youtube-play.png" alt="YouTube" width="65" /></a>
   <br/>
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=500&height=50&lines=Automate+Everything;Scale+With+Confidence;Let's+Build+Together!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=500&height=50&lines=Automate+Everything;Scale+With+Confidence" alt="Typing" />
   </a>
 </div>
