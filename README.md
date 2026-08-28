@@ -185,15 +185,8 @@ I'm a **software engineering student** focused on **DevOps engineering** and **c
   </a>
 </p>
 
-<br/>
 
-<p align="center">
-  <a href="https://github.com/sachilz">
-    <img src="https://trophy.ryglcloud.net/?username=sachilz&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
 
-<br/>
 
 <p align="center">
   <a href="https://github.com/sachilz">
