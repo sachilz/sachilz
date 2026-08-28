@@ -63,10 +63,10 @@ I'm a **software engineering student** focused on **DevOps engineering** and **c
 <h2 align="center">🚀 What I'm Learning & Building</h2>
 
 <div align="center">
-  <table>
+  <table width="600px">
     <tr>
-      <th align="left">Area</th>
-      <th align="left">Focus</th>
+      <th width="30%" align="left">Area</th>
+      <th width="70%" align="left">Focus</th>
     </tr>
     <tr>
       <td>🔄 CI/CD</td>
@@ -101,10 +101,26 @@ I'm a **software engineering student** focused on **DevOps engineering** and **c
 
 <p align="center">I'm passionate about enabling teams to move faster with confidence.</p>
 
-<p align="center">
-  🚀 <b>Automate deployments</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📈 <b>Scale systems reliably</b> <br/><br/>
-  🛡️ <b>Improve uptime & perf</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔁 <b>Create secure, repeatable workflows</b>
-</p>
+<div align="center">
+  <table width="700px">
+    <tr>
+      <td align="center" width="50%">
+        <h3>🚀 Automate deployments</h3>
+      </td>
+      <td align="center" width="50%">
+        <h3>📈 Scale systems reliably</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🛡️ Improve uptime & perf</h3>
+      </td>
+      <td align="center" width="50%">
+        <h3>🔁 Create secure workflows</h3>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
