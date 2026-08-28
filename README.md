@@ -63,16 +63,36 @@ I'm a **software engineering student** focused on **DevOps engineering** and **c
 <h2 align="center">🚀 What I'm Learning & Building</h2>
 
 <div align="center">
-
-| Area | Focus |
-|:-----|:------|
-| 🔄 CI/CD | GitHub Actions, Jenkins |
-| 📦 IaC | Terraform |
-| 🐳 Containers | Docker, Kubernetes |
-| ☁️ Cloud | AWS |
-| 📊 Monitoring | Prometheus, Grafana |
-| 🖥️ Scripting | Bash, Python |
-
+  <table>
+    <tr>
+      <th align="left">Area</th>
+      <th align="left">Focus</th>
+    </tr>
+    <tr>
+      <td>🔄 CI/CD</td>
+      <td>GitHub Actions, Jenkins</td>
+    </tr>
+    <tr>
+      <td>📦 IaC</td>
+      <td>Terraform</td>
+    </tr>
+    <tr>
+      <td>🐳 Containers</td>
+      <td>Docker, Kubernetes</td>
+    </tr>
+    <tr>
+      <td>☁️ Cloud</td>
+      <td>AWS</td>
+    </tr>
+    <tr>
+      <td>📊 Monitoring</td>
+      <td>Prometheus, Grafana</td>
+    </tr>
+    <tr>
+      <td>🖥️ Scripting</td>
+      <td>Bash, Python</td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -81,14 +101,10 @@ I'm a **software engineering student** focused on **DevOps engineering** and **c
 
 <p align="center">I'm passionate about enabling teams to move faster with confidence.</p>
 
-<div align="center">
-
-```
-🚀 Automate deployments        📈 Scale systems reliably
-🛡️ Improve uptime & perf       🔁 Create secure, repeatable workflows
-```
-
-</div>
+<p align="center">
+  🚀 <b>Automate deployments</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📈 <b>Scale systems reliably</b> <br/><br/>
+  🛡️ <b>Improve uptime & perf</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔁 <b>Create secure, repeatable workflows</b>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
