@@ -80,7 +80,7 @@
 </p>
 
 
-## 🌟 Microsoft Student Ambassador
+## Microsoft Student Ambassador
 
 I'm proud to be a **Microsoft Student Ambassador**, where I explore Microsoft technologies, share technical knowledge, and contribute to the student and developer community.
 
@@ -94,7 +94,7 @@ Through this journey, I'm focused on:
 - Building projects and continuously improving my technical skills
 
 
-## 🔥 What I'm Up To
+## What I'm Up To
 
 I'm focused on building reliable DevOps pipelines, automating infrastructure, and improving observability.
 
@@ -103,7 +103,7 @@ I enjoy working at the intersection of development and operations to help delive
 Currently, I'm combining my DevOps learning journey with my Microsoft Student Ambassador experience to explore cloud technologies, automation, AI, and modern software engineering practices.
 
 
-## 🚀 What I'm Learning & Building
+## What I'm Learning & Building
 
 Right now, I'm sharpening my expertise in:
 
@@ -117,7 +117,7 @@ Right now, I'm sharpening my expertise in:
 * AI & Cloud Technologies - Microsoft AI and Azure
 
 
-## 💡 Why DevOps?
+## Why DevOps?
 
 I'm passionate about enabling teams to move faster with confidence.
 
@@ -138,77 +138,67 @@ DevOps allows me to:
 
 ## 🛠️ DevOps Tooling & Skills
 
-<div align="left" dir="auto">
+<div align="center">
 
-<table>
-
-<thead>
-<tr>
-<th width="300">Section</th>
-<th width="800">Tools</th>
-</tr>
-</thead>
-
-<tbody>
-
-<tr>
-<td>CI/CD</td>
-<td>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
-</td>
-</tr>
-
-<tr>
-<td>Containers & Orchestration</td>
-<td>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</td>
-</tr>
-
-<tr>
-<td>Infrastructure as Code</td>
-<td>
-<img src="https://skillicons.dev/icons?i=terraform" />
-</td>
-</tr>
-
-<tr>
-<td>Cloud Platforms</td>
-<td>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-</td>
-</tr>
-
-<tr>
-<td>Monitoring & Observability</td>
-<td>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</td>
-</tr>
-
-<tr>
-<td>Scripting & Automation</td>
-<td>
-<img src="https://skillicons.dev/icons?i=py,bash" />
-</td>
-</tr>
-
-<tr>
-<td>Operating Systems</td>
-<td>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
-</td>
-</tr>
-
-<tr>
-<td>Version Control</td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github" />
-</td>
-</tr>
-
-</tbody>
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <br/>
+      <strong>Cloud & Infrastructure</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws,azure,terraform" />
+      <br/><br/>
+      <sub>AWS &bull; Azure &bull; Terraform</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <br/>
+      <strong>Containers & CI/CD</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins" />
+      <br/><br/>
+      <sub>Docker &bull; K8s &bull; Actions &bull; Jenkins</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <br/>
+      <strong>Monitoring & Observability</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+      <br/><br/>
+      <sub>Prometheus &bull; Grafana</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <br/>
+      <strong>Scripting & Automation</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=py,bash" />
+      <br/><br/>
+      <sub>Python &bull; Bash Scripting</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <br/>
+      <strong>Full-Stack Development</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=ts,react,nodejs" />
+      <br/><br/>
+      <sub>TypeScript &bull; React &bull; Node.js</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <br/>
+      <strong>Platforms & Version Control</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=windows,ubuntu,git,github" />
+      <br/><br/>
+      <sub>Windows &bull; Ubuntu &bull; Git &bull; GitHub</sub>
+      <br/><br/>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -221,15 +211,11 @@ DevOps allows me to:
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=sachilz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2496ED&icon_color=00C6FF" alt="GitHub stats for sachilz" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=sachilz&theme=tokyonight&hide_border=true&background=0D1117&ring=2496ED&fire=00C6FF" alt="GitHub streak for sachilz" width="48%" />
-
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sachilz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2496ED&icon_color=00C6FF" alt="GitHub stats for sachilz" width="48.5%" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=sachilz&theme=tokyonight&hide_border=true&background=0D1117&ring=2496ED&fire=00C6FF" alt="GitHub streak for sachilz" width="48.5%" />
+</p>
 
 <br/>
 
@@ -239,27 +225,63 @@ DevOps allows me to:
 <div align="center">
 
 <p>
-<i>
-I'm always open to discussing DevOps, cloud technologies, automation, AI, and opportunities to collaborate on technical projects.
-</i>
+  <i>I'm always open to discussing DevOps, cloud technologies, automation, AI, and opportunities to collaborate on technical projects.</i>
 </p>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sachilz/" target="_blank">
-<img src="https://img.icons8.com/3d-fluency/100/linkedin.png" alt="LinkedIn" width="65" />
-</a>
+<table align="center">
+  <tr>
+    <td align="center" width="220" valign="top">
+      <br/>
+      <a href="https://medium.com/@dilshansachiya671_17974" target="_blank">
+        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-medium-3d-icon-png-download-5638278.png" width="56" alt="Medium" />
+        <br/><br/>
+        <b><font size="+1">Medium</font></b>
+        <br/>
+        <sub>Tech Articles & Guides</sub>
+        <br/><br/>
+        <code>Read Articles</code>
+      </a>
+      <br/><br/>
+    </td>
+    <td align="center" width="220" valign="top">
+      <br/>
+      <a href="https://www.linkedin.com/in/sachilz/" target="_blank">
+        <img src="https://img.icons8.com/3d-fluency/100/linkedin.png" width="56" alt="LinkedIn" />
+        <br/><br/>
+        <b><font size="+1">LinkedIn</font></b>
+        <br/>
+        <sub>Professional Network</sub>
+        <br/><br/>
+        <code>Let's Connect</code>
+      </a>
+      <br/><br/>
+    </td>
+    <td align="center" width="220" valign="top">
+      <br/>
+      <a href="https://www.youtube.com/@NextOpz" target="_blank">
+        <img src="https://img.icons8.com/3d-fluency/100/youtube-play.png" width="56" alt="YouTube" />
+        <br/><br/>
+        <b><font size="+1">YouTube</font></b>
+        <br/>
+        <sub>@NextOpz Tutorials</sub>
+        <br/><br/>
+        <code>Watch & Subscribe</code>
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
-&nbsp;
+<br/>
 
-<a href="https://www.youtube.com/@NextOpz" target="_blank">
-<img src="https://img.icons8.com/3d-fluency/100/youtube-play.png" alt="YouTube" width="65" />
-</a>
+<p align="center">
+  📫 Have an opportunity or question? Feel free to reach out directly at <b><a href="mailto:dilshansachintha322@gmail.com">dilshansachintha322@gmail.com</a></b>
+</p>
 
-<br/><br/>
-
-<a href="https://readme-typing-svg.herokuapp.com">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=500&height=50&lines=Automate+Everything;Build+Reliable+Systems;Learn+%E2%80%A2+Build+%E2%80%A2+Share;Scale+With+Confidence" alt="Typing" />
-</a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 </div>
